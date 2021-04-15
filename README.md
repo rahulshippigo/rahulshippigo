@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @rahulshippigo
-- 👀 I’m interested in Software Develeoper Jobs
+- 👋 Hi, I’m RAHUL SHARMA
+- 👀 I’m interested in Software Develeopement
 - 🌱 I’m currently learning New Technologies
 - 📫 To reach me just drop me a mail on 41097.sharma@gmail.com
 
